@@ -1,4 +1,4 @@
-# This fold is my colleage's last subjects
+# This folder is my colleage's last subjects
 
 *jobs1.c is first subject because it's not perfect.
 
